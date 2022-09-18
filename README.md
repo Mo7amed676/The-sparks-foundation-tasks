@@ -1,2 +1,2 @@
 # The-sparks-foundation-tasks
-solving intern tasks in data science &amp;&amp; business analytics track
+solving internship tasks in data science &amp;&amp; business analytics track
